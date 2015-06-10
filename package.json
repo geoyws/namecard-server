@@ -1,0 +1,22 @@
+{
+  "name": "namecard-server",
+  "version": "1.0.0",
+  "description": "Node.js backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoyws/namecard-server.git"
+  },
+  "keywords": [
+    "namecard"
+  ],
+  "author": "geoyws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoyws/namecard-server/issues"
+  },
+  "homepage": "https://github.com/geoyws/namecard-server"
+}
